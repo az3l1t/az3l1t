@@ -8,7 +8,7 @@
 
 <div align="center"> 
   <a href="mailto:eternity_cr9p@mail.ru">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://cdn.icon-icons.com/icons2/656/PNG/512/mail_email_message_electronic_online_web_icon-icons.com_59986.png" />
   </a>
   <a href="https://hh.ru/resume/82c7b5aaff0c81f2f40039ed1f466b68665569" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
