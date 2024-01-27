@@ -37,8 +37,7 @@
 <br/>
 
 <div align="center">
-<a href='https://t.me/azel1t' target='_blank'><img height='64' style='border:0px;height:64px;' src='
-                                                  cdn/kofi1.png?v=3' border='0' alt='Telegram' /></a>
+<a href='https://t.me/azel1t' target='_blank'><img height='64' style='border:0px;height:64px;' src='telegram_icon-icons.com_72055.png' border='0' alt='Telegram' /></a>
 </div>
 
 <br/>
