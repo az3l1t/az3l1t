@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center"> 
-  <a href="eternity_cr9p@mail.ru">
+  <a href="mailto:eternity_cr9p@mail.ru">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://hh.ru/resume/82c7b5aaff0c81f2f40039ed1f466b68665569" target="_blank">
