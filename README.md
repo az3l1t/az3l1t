@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Java Developer
 ----------------------
 
-I am a second-year student at the Moscow Institute of Radio Engineering of Electronics and Automation. I am engaged in Java development. I am familiar with algorithms and data processing structures. Java Core, Java Spring, Docker, K8S, Bash, GIT.
+I am a third-year student at the Moscow Institute of Radio Engineering of Electronics and Automation. I am engaged in Java development. I am familiar with algorithms and data processing structures. Java Core, Java Spring, Docker, K8S, Bash, GIT.
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [eternity\_cr9p@mail.ru](mailto:eternity_cr9p@mail.ru)
