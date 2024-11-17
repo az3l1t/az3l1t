@@ -8,7 +8,7 @@ I am a third-year student at the Moscow Institute of Radio Engineering of Electr
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [eternity\_cr9p@mail.ru](mailto:eternity_cr9p@mail.ru)
-*   🚀  I'm currently working on [Application VKS](https://github.com/az3l1t/VKS)
+*   🚀  I'm currently working on [Application VKS](https://github.com/az3l1t/T1-VKS)
 
 ### Skills 
 <p align="left">
