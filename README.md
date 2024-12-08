@@ -6,11 +6,13 @@ Backend Java Developer
 
 I am a third-year student at the Moscow Institute of Radio Engineering of Electronics and Automation. I am engaged in Java development. I am familiar with algorithms and data processing structures. Java Core, Java Spring, Docker, K8S, Bash, GIT.
 
-*   🌍  I'm based in Moscow
-*   ✉️  You can contact me at [eternity\_cr9p@mail.ru](mailto:eternity_cr9p@mail.ru)
-*   🚀  I'm currently working on [Application VKS](https://github.com/az3l1t/T1-VKS)
+*   🌍  I'm based in Moscow;
+*   ✉️  You can contact me at [eternity\_cr9p@mail.ru](mailto:eternity_cr9p@mail.ru);
+*   🚀  I'm currently working on CorporationX;
 
 ### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
                     </p>
+
+## If you are interested in me experience - there is my resume: https://docs.google.com/document/d/1z2ddUWRriuuvfVk-WqUlIBD26vWG5ZrV/edit?usp=sharing&ouid=115978966547470077916&rtpof=true&sd=true
