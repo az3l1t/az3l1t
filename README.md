@@ -5,7 +5,7 @@
 ## 🚀 Моя специализация  
 Вот технологии, с которыми я работаю ежедневно:  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,postgresql,mysql,redis,kafka,graphql,git,gradle,maven,linux" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,postgresql,mysql,redis,kafka,graphql,git,gradle,maven,linux,cassandra,elasticsearch,jira,miro" alt="Technologies" />
 </p>
 
 ## 📌 Ключевые навыки  
