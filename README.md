@@ -1,18 +1,25 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Norair
-==============================================================================================================================
+# 💻 About Me  
 
-Backend Java Developer
-----------------------
+👋 Привет! Я — backend-разработчик, специализирующийся на Java и Spring. Разрабатываю надежные и производительные серверные приложения, использую современные технологии для работы с данными, а также обеспечиваю стабильность и масштабируемость систем.  
 
-I am a third-year student at the Moscow Institute of Radio Engineering of Electronics and Automation. I am engaged in Java development. I am familiar with algorithms and data processing structures. Java Core, Java Spring, Docker, K8S, Bash, GIT.
-
-*   🌍  I'm based in Moscow;
-*   ✉️  You can contact me at [eternity\_cr9p@mail.ru](mailto:eternity_cr9p@mail.ru);
-*   🚀  I'm currently working on CorporationX;
-
-### Skills 
+## 🚀 Моя специализация  
+Вот технологии, с которыми я работаю ежедневно:  
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-                    </p>
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,postgresql,mysql,redis,kafka,graphql,git,gradle,maven,linux" alt="Technologies" />
+</p>
 
-### If you are interested in my experience - there is my resume: [Resume](https://docs.google.com/document/d/1z2ddUWRriuuvfVk-WqUlIBD26vWG5ZrV/edit?usp=sharing&ouid=115978966547470077916&rtpof=true&sd=true)
+## 📌 Ключевые навыки  
+- **Backend разработка:** Java (Spring Boot, Spring MVC, Spring Security, Spring Data).  
+- **Микросервисы:** Архитектура, взаимодействие через REST и GraphQL.  
+- **Сообщения:** Apache Kafka.  
+- **Базы данных:** PostgreSQL, MySQL, Redis.  
+- **Контейнеризация и оркестрация:** Docker, Kubernetes.  
+- **Работа с конфигурацией:** Viper, YAML.  
+- **Хранение и безопасность данных:** JWT, хэширование паролей (bcrypt).  
+
+## 📄 Моё резюме  
+Подробности о моем опыте и проектах можно найти [здесь](https://docs.google.com/document/d/1z2ddUWRriuuvfVk-WqUlIBD26vWG5ZrV/edit?usp=sharing&ouid=115978966547470077916&rtpof=true&sd=true).  
+
+## 📫 Контакты  
+- **Email:** eternity_cr9p@mail.ru  
+- **Telegram:** [@azel1t](https://t.me/azel1t)  
