@@ -17,9 +17,6 @@
 - **Работа с конфигурацией:** Viper, YAML.  
 - **Хранение и безопасность данных:** JWT, хэширование паролей (bcrypt), Keycloack, Spring Security.
 
-## 📄 Моё резюме  
-Подробности о моем опыте и проектах можно найти [здесь](https://docs.google.com/document/d/1z2ddUWRriuuvfVk-WqUlIBD26vWG5ZrV/edit?usp=sharing&ouid=115978966547470077916&rtpof=true&sd=true).  
-
 ## 📫 Контакты  
 - **Email:** eternity_cr9p@mail.ru  
 - **Telegram:** [@azel1t](https://t.me/azel1t)  
